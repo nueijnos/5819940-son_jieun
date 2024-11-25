@@ -1,4 +1,4 @@
-# Shell Sorting {Result Image}
+# Merge Sorting {Result Image}
 ![](./mergesort.PNG)
 
 # 보너스 문제 풀이
