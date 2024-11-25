@@ -1,0 +1,5 @@
+﻿  13-mergesort.c
+C:\Users\MS\OneDrive\Desktop\손지은\2학년\자료구조\second\과제&실습\13-mergesort\13-mergesort.c(87,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MS\OneDrive\Desktop\손지은\2학년\자료구조\second\과제&실습\13-mergesort\13-mergesort.c(98,40): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\MS\OneDrive\Desktop\손지은\2학년\자료구조\second\과제&실습\13-mergesort\13-mergesort.c(98,40): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  13-mergesort.vcxproj -> C:\Users\MS\OneDrive\Desktop\손지은\2학년\자료구조\second\과제&실습\13-mergesort\x64\Debug\13-mergesort.exe
