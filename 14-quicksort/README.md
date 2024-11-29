@@ -1,8 +1,8 @@
 # Quick Sorting {Result Image}
-## 재귀적 방법으로 구현
+*재귀적 방법으로 구현*
 ![](./quicksort(재귀).PNG)
 
-## 반복적 방법으로 구현
+*반복적 방법으로 구현*
 ![](./quicksort(반복).PNG)
 
 # 보너스 문제 풀이
