@@ -1,6 +1,6 @@
 # Quick Sorting {Result Image}
 **재귀적 방법으로 구현**
-![](./quicksort(재귀).PNG)
+![](./quicksort(재귀)..PNG)
 
 **반복적 방법으로 구현**
 ![](./quicksort(반복).PNG)
